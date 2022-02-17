@@ -1,11 +1,14 @@
-## Merchant API
-#### Version 1
+# merchant-api
 
-#### Setup
-1. Install and setup npm, and Node.js on your machine
-2. Open terminal inside `merchant-api` folder, and type
-> npm install
-to install the needed dependencies
-3. Once done, you can start the API by typing
+A simple API project that has:
+- CRUD operations for Product objects
+
+## Getting Started
+
+1. Clone the repository
+> git clone https://github.com/shdolores1/merchant-api.git
+2. To install dependencies, open terminal inside  `merchant-api`  folder, and type
+> npm install 
+3.  Once done, you can start the server by typing
 > npm start
-4. The terminal should indicate that it has successfuly connected to the database.
+4.  The terminal should indicate that it has successfuly connected to the database.
